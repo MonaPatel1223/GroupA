@@ -4,7 +4,7 @@ public class Demo_Instance {
 
     //    Instance Variables
     int i=20;
-    float s= 12.3f;
+    String s="Mona";
 
     void method (){
         i=40;
@@ -16,7 +16,8 @@ public class Demo_Instance {
 
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
 
     }
 
